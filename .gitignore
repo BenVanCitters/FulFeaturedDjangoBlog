@@ -212,3 +212,4 @@ local_settings.py
 
 .env
 db.sqlite3
+django_ffProject/media/profile_pics/
