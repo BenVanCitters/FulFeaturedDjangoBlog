@@ -3,12 +3,11 @@
   <component name="ChangeListManager">
     <list default="true" id="9556cb1e-0391-49ed-a9c7-446106af171b" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/django_ffProject/django_ffProject/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/django_ffProject/django_ffProject/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/django_ffProject/django_ffProject/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/django_ffProject/django_ffProject/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/django_ffProject/users/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/django_ffProject/users/admin.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/django_ffProject/users/apps.py" beforeDir="false" afterPath="$PROJECT_DIR$/django_ffProject/users/apps.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/django_ffProject/blog/templates/blog/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/django_ffProject/blog/templates/blog/home.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/django_ffProject/users/forms.py" beforeDir="false" afterPath="$PROJECT_DIR$/django_ffProject/users/forms.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/django_ffProject/users/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/django_ffProject/users/models.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/django_ffProject/users/templates/users/profile.html" beforeDir="false" afterPath="$PROJECT_DIR$/django_ffProject/users/templates/users/profile.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/django_ffProject/users/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/django_ffProject/users/views.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
