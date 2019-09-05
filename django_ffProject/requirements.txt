@@ -7,7 +7,7 @@ chardet==3.0.4
 constantly==15.1.0
 cryptography==2.7
 cssselect==1.1.0
-Django==2.2.3
+Django==2.2.5
 django-crispy-forms==1.7.2
 django-polls==0.1
 hyperlink==19.0.0
