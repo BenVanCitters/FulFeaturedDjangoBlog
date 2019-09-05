@@ -32,7 +32,7 @@ class UserPostListView(ListView):
     def get_queryset(self):
         user = get_object_or_404(User, username=self.kwargs.get('username'))
         return Post.objects.filter(author=user).order_by('-date_posted')
-    
+
 #building new with default setup
 class PostDetailView(DetailView):
     model = Post
