@@ -13,10 +13,11 @@ class Profile(models.Model):
         return f'{self.user.username} Profile'
 
 
-    def save(self, *args, **kwargs):
-        super().save( *args, **kwargs)
-        img = Image.open(self.image.path)
-        if img.height > 300 or img.width > 300:
-            output_size = (300,300)
-            img.thumbnail(output_size)
-            img.save(self.image.path)
+#commented out until working with aws s3 - aws lambda function
+    # def save(self, *args, **kwargs):
+    #     super().save( *args, **kwargs)
+    #     img = Image.open(self.image.path)
+    #     if img.height > 300 or img.width > 300:
+    #         output_size = (300,300)
+    #         img.thumbnail(output_size)
+    #         img.save(self.image.path)
