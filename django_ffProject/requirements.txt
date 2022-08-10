@@ -19,7 +19,7 @@ hyperlink==19.0.0
 idna==2.8
 incremental==17.5.0
 jmespath==0.9.4
-lxml==4.6.5
+lxml==4.9.1
 parsel==1.5.2
 pillow>=6.2.2
 pipenv==2022.1.8
