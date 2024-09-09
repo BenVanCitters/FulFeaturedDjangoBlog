@@ -16,7 +16,7 @@ django-storages==1.7.1
 docutils==0.15.2
 gunicorn==22.0.0
 hyperlink==19.0.0
-idna==2.8
+idna==3.7
 incremental==17.5.0
 jmespath==0.9.4
 lxml==4.9.1
